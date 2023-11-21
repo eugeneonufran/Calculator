@@ -43,7 +43,7 @@
             // 
             // calculate
             // 
-            this.calculate.Location = new System.Drawing.Point(131, 168);
+            this.calculate.Location = new System.Drawing.Point(131, 132);
             this.calculate.Name = "calculate";
             this.calculate.Size = new System.Drawing.Size(133, 43);
             this.calculate.TabIndex = 0;
@@ -114,7 +114,7 @@
             // resultLabel
             // 
             this.resultLabel.AutoSize = true;
-            this.resultLabel.Location = new System.Drawing.Point(163, 137);
+            this.resultLabel.Location = new System.Drawing.Point(168, 191);
             this.resultLabel.Name = "resultLabel";
             this.resultLabel.Size = new System.Drawing.Size(58, 13);
             this.resultLabel.TabIndex = 7;
