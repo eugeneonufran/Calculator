@@ -146,9 +146,8 @@ namespace Calculator
                         return;
                 }
 
-                result = Math.Round(result, 2);
+                resultLabel.Text = $"Result: {result.ToString("0.######")}";
 
-                resultLabel.Text = $"Result: {result}";
             }
         }
     }
